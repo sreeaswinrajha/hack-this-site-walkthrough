@@ -17,7 +17,7 @@ This repository is designed for:
 
 ## 🚀 How to Use
 
-1. Browse each mission folder or open `basic-mission-X.md` files
+1. Browse each mission folder or open `X.md` files
 2. Follow the steps carefully
 3. Try solving the mission yourself first!
 4. Use the hints only when stuck
